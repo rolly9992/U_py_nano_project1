@@ -1,0 +1,30 @@
+﻿
+First source of references should go without saying: the Udacity training material and jupyter notebooks!
+
+
+URLs of additional references and research: 
+
+https://anishjohnson.medium.com/pros-and-cons-of-various-machine-learning-models-e9f22e13c4a9
+
+
+https://www.geeksforgeeks.org/machine-learning/advantages-and-disadvantages-of-different-classification-models/
+
+
+https://stackoverflow.com/questions/17778394/list-highest-correlation-pairs-from-a-large-correlation-matrix-in-pandas
+
+https://stats.stackexchange.com/questions/182329/how-to-know-whether-the-data-is-linearly-separable
+
+https://scikit-learn.org/stable/index.html
+
+https://pandas.pydata.org/pandas-docs/stable/index.html
+
+https://numpy.org/
+
+
+
+
+
+
+
+
+

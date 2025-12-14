@@ -22,6 +22,15 @@ https://numpy.org/
 
 
 
+https://kmoy1.github.io/ML_Book/chapters/Ch2/linearseparability.html
+
+
+https://aimlfoundry.com/machine-learning-foundations/machine-learning-classification-algorithms-use-cases
+
+
+
+
+
 
 
 

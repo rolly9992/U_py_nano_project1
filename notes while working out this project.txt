@@ -1,0 +1,24 @@
+﻿Notes on the data for project 1 
+
+the data is imbalanced about 3 to 1 ratio 
+
+
+drop educational level since there is a number ??
+
+
+models to consider. 
+
+
+Logistic regression. Simpler classification model. Used in credit scoring. Whether a customer will pay its bills or not. In a way, predicting who makes over 50K would help this non profit with funding, a part of which obviously goes to pay its bills. 
+Logistic regression often a good starting point in some classification model building. Seems like a good starting point here too given that the data is clean (reference the first cell in the main jupyter notebook)
+Also works well on clean data. This data is clean and structured with no
+ nulls  
+
+
+Decision trees. Another model that works well on clean structured data. 
+
+
+
+Random forest. In the event there are (as of now) unseen complications, I think it’s a good idea to use a more robust model as insurance. Random forest models seem to work well quite often as they are more robust, at the trade off of being more complex. However, perhaps we end up with one of the simpler models as the final model. Still worth exploring the results from this model, just in case the other 2 perform poorly. 
+
+

@@ -27,6 +27,51 @@ https://kmoy1.github.io/ML_Book/chapters/Ch2/linearseparability.html
 
 https://aimlfoundry.com/machine-learning-foundations/machine-learning-classification-algorithms-use-cases
 
+https://www.sciencenewstoday.org/10-real-world-examples-of-machine-learning-in-action
+
+https://www.ibm.com/think/topics/machine-learning-use-cases
+
+
+
+
+https://stackoverflow.com/questions/78225231/when-using-scikit-learn-fit-getting-an-error-expected-a-2-dimensional-containe
+
+
+https://stackoverflow.com/questions/77748547/the-feature-names-should-match-those-that-were-passed-during-fit
+
+
+
+https://www.geeksforgeeks.org/data-science/advantages-and-disadvantages-of-logistic-regression/
+
+
+https://www.luxwisp.com/pros-and-cons-of-logistic-regression/
+
+
+https://mljourney.com/when-to-use-logistic-regression-comprehensive-guide/
+
+
+
+https://miro.com/diagramming/decision-tree-analysis-in-risk-management/
+
+
+https://ceohangout.com/when-to-use-decision-trees-for-risk-evaluation/
+
+
+https://insidelearningmachines.com/advantages_and_disadvantages_of_decision_trees/
+
+
+https://aiml.com/what-are-the-advantages-and-disadvantages-of-using-a-decision-tree/
+
+
+https://ioaglobal.org/blog/random-forests-explained-simply-prediction-real-world-use/
+
+
+https://sklearner.com/scikit-learn-grid-search-logisticregression/
+
+
+
+
+
 
 
 

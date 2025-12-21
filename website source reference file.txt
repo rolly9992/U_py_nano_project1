@@ -69,6 +69,12 @@ https://ioaglobal.org/blog/random-forests-explained-simply-prediction-real-world
 https://sklearner.com/scikit-learn-grid-search-logisticregression/
 
 
+https://sklearner.com/sklearn-decisiontreeclassifier-min_impurity_decrease-parameter/
+
+
+https://www.geeksforgeeks.org/machine-learning/how-to-identify-the-most-informative-features-for-scikit-learn-classifiers/
+
+
 
 
 
